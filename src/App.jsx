@@ -1033,6 +1033,8 @@ const inputStyle = {
   marginBottom: 14,
   outline: "none",
   background: "#FAFAFA",
+  color: "#222",
+  caretColor: "#222",
   fontFamily: "inherit",
 };
 
